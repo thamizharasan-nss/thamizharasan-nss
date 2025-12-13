@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Sai!  
 
-<!--
-**saiaaradhana/saiaaradhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 DevOps Engineer | Cloud | Infrastructure Automation
 
-Here are some ideas to get you started:
+I'm passionate about designing, automating, and deploying scalable cloud infrastructure.  
+I work with modern DevOps tools and love building clean CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools I Use
+
+- ☸️ **Kubernetes**
+- 🐳 **Docker**
+- 🏗️ **Terraform**
+- 🔁 **CI/CD (GitHub Actions)**
+- ☁️ **AWS (ECR, EC2, IAM, VPC)**
+- 🐍 **Python**
+- 🛠️ **Linux, Shell Scripting**
+
+---
+
+## 🚀 What I Do
+
+- Automate application deployments  
+- Build CI/CD pipelines  
+- Work with containers & orchestration  
+- Manage cloud infrastructure using Terraform  
+- Deploy apps to Kubernetes clusters  
+- Explore cloud-native architectures  
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes advanced workloads  
+- AWS architecture best practices  
+- Helm charts  
+- Monitoring & Observability (Prometheus, Grafana)
+
+---
+
+## 📫 Connect With Me
+
+💼 GitHub: [@saiaaradhana](https://github.com/saiaaradhana)
+
+---
+
+✨ _Always learning. Always improving. Passionate about DevOps._  
+
