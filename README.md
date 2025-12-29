@@ -41,7 +41,7 @@ I work with modern DevOps tools and love building clean CI/CD pipelines.
 
 ## 📫 Connect With Me
 
-💼 GitHub: [@saiaaradhana](https://github.com/saiaaradhana)
+💼 GitHub: https://github.com/thamizharasan-nss/thamizharasan-nss
 
 ---
 
