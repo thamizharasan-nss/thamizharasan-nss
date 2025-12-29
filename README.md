@@ -1,6 +1,6 @@
-# 👨‍💻 Hi, I'm Sai!  
+# 👨‍💻 Hi, I'm Thamizharasan
 
-### 🚀 Junior DevOps Engineer | Cloud | Infrastructure Automation
+### 🚀 DevOps Engineer | Cloud | Infrastructure Automation
 
 I'm passionate about designing, automating, and deploying scalable cloud infrastructure.  
 I work with modern DevOps tools and love building clean CI/CD pipelines.
