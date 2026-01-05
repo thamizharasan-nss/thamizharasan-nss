@@ -43,6 +43,8 @@ I work with modern DevOps tools and love building clean CI/CD pipelines.
 
 💼 GitHub: https://github.com/thamizharasan-nss/thamizharasan-nss
 
+https://learn.microsoft.com/api/achievements/share/en-us/THAMIZHARASAN-0993/FQBSDELX?sharingId=88CAF872B37FAA90
+
 ---
 
 ✨ _Always learning. Always improving. Passionate about DevOps._  
